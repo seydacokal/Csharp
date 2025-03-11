@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Metotlar", "08_Metotlar\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_VeritabanıProjesi", "09_VeritabanıProjesi\09_VeritabanıProjesi.csproj", "{B9EE5A17-3990-4979-94AB-BACC186B9D5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_DatabaseCrud", "10_DatabaseCrud\10_DatabaseCrud.csproj", "{6DE92108-F2A5-4303-A53D-ECE6690A0783}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B9EE5A17-3990-4979-94AB-BACC186B9D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9EE5A17-3990-4979-94AB-BACC186B9D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9EE5A17-3990-4979-94AB-BACC186B9D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE92108-F2A5-4303-A53D-ECE6690A0783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE92108-F2A5-4303-A53D-ECE6690A0783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE92108-F2A5-4303-A53D-ECE6690A0783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE92108-F2A5-4303-A53D-ECE6690A0783}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
